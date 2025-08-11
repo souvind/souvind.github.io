@@ -1,103 +1,151 @@
-# 👋 Hi, I'm SOUVIND
+# 👋 Hello, I'm Souvind N K
 
-🚀 **Microsoft & Databricks Certified Data Engineer | Azure & Big Data Specialist | ETL Pipeline Expert**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/souvind-nk)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souvind.souvi@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919946591679)
 
-I’m a **Data Engineer** with **5 years of experience** in designing, building, and optimizing **data pipelines and cloud data solutions**.  
-I specialize in the **Azure ecosystem** and **big data technologies**, delivering scalable, high-performance systems for enterprise clients.  
+## 🚀 Data Engineer | Cloud Enthusiast | Problem Solver
 
----
-
-## 🛠️ Skills & Tools
-
-**Programming & Querying**  
-- Python, SQL, PySpark
-
-**Cloud & Data Platforms**  
-- Azure Data Factory (ADF)  
-- Azure Databricks  
-- Azure Synapse Analytics  
-- Azure Data Lake, Delta Lake, Unity Catalog  
-- Snowflake  
-
-**Data Engineering Expertise**  
-- Data Modeling, Data Governance, Data Lineage  
-- Apache Spark, Real-Time Processing, Kafka  
-- Batch & Streaming Pipelines  
-- ETL / ELT Design & Optimization  
-
-**DevOps & Tools**  
-- Git, Azure DevOps, Jenkins, Jira, Unix, SQL Server, SSMS  
-
-**Soft Skills**  
-- Problem Solving, Communication, Leadership, Teamwork, Adaptability  
+> *Transforming raw data into actionable insights with 5+ years of expertise in cloud data engineering*
 
 ---
 
-## 📌 Featured Projects
+## 💼 About Me
 
-### 🔹 [**Real-Time IoT Data Pipeline**](https://github.com/yourusername/realtime-data-pipeline)  
-Built a **real-time streaming pipeline** using Azure Event Hubs + Databricks (PySpark) to process IoT sensor data and store results in Azure Synapse, improving decision-making speed by 30%.  
+I'm a **Microsoft and Databricks Certified Data Engineer** with extensive experience in designing and implementing scalable data solutions. Currently working at **Capgemini** for **Mercedes-Benz**, I specialize in building robust data pipelines, optimizing cloud infrastructure, and driving data-driven decision making.
 
-### 🔹 [**Azure Data Lakehouse Implementation**](https://github.com/yourusername/data-lakehouse)  
-Implemented **Medallion Architecture** in Azure Data Lake + Delta Lake with Databricks, enabling optimized BI and ML workloads.  
-
-### 🔹 [**Job Market Data Engineering Project**](https://github.com/yourusername/job-market-analysis)  
-Scraped 10k+ job listings using Python, cleaned & transformed data in Airflow, migrated to SQL Server, and created a Streamlit dashboard for job filtering.  
-
----
-
-## 💼 Work Experience
-
-**Capgemini Technology Services** — *Data Engineer*  
-*Sept 2024 – Present | Client: Mercedes-Benz*  
-- Designed and implemented 30+ data pipelines in Azure, improving efficiency by 27%.  
-- Migrated 3TB+ data to the cloud, reducing infrastructure cost by 33%.  
-- Improved query response time by 32% via performance tuning.  
-
-**Tata Consultancy Services** — *Data Engineer*  
-*Feb 2020 – Feb 2024 | Client: HP*  
-- Enhanced BI data models to boost accessibility and enable data-driven decisions.  
-- Managed Azure services (ADF, Databricks, Synapse, Snowflake) with a 99.9% uptime.  
-- Won **Best Team of the Quarter** and **Client Appreciation Awards** for cost optimization initiatives.  
+### 🎯 Key Achievements
+- 🏆 **50% increase** in data accessibility through data lake implementation
+- 📈 **30% improvement** in data accuracy via enhanced ETL processes
+- ⚡ **47% reduction** in manual data handling through automation
+- 💰 **33% cost reduction** by migrating 3+ TB data to cloud
+- 🔧 **32% faster** query response times through performance tuning
 
 ---
 
-## 🎓 Education
+## 🛠️ Technical Arsenal
 
-**Bachelor of Computer Science Engineering**  
-College of Engineering Thalassery, Kerala — *2018* — GPA: **8.12/10**  
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
----
+### Cloud & Data Platforms
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
-## 📜 Certifications
-
-- Microsoft Certified Azure Data Engineer Associate (DP-203)  
-- Databricks Certified Data Engineer Associate  
-- Fundamentals of Databricks Lakehouse Platform Accreditation  
-- HackerRank Advanced SQL & Python Basics Certifications  
-- Introduction to Generative AI (Google)  
-
----
-
-## 🏆 Honors & Awards
-
-- **Shining Star Award** – Capgemini  
-- **Best Team Player Award** – Collaboration Excellence  
-- **Innovation Award** – Workflow Optimization  
-- **Certificate of Excellence** – Project Delivery  
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Professional Experience
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
+### 🏢 **Capgemini Technology Services** | *Data Engineer* 
+**Sept 2024 - Present** | *Client: Mercedes-Benz*
+- 🔧 Developed 30+ data pipelines improving efficiency by 27%
+- 📊 Managed 1.5M+ records database with 99.9% uptime
+- ☁️ Led cloud migration reducing infrastructure costs by 33%
+- 🤖 Implemented CI/CD pipelines for automated deployments
+
+### 🏢 **Tata Consultancy Services** | *Data Engineer*
+**Feb 2020 - Feb 2024** | *Client: HP*
+- 🎯 Enhanced data quality reducing errors by 22%
+- 💡 Optimized query performance by 32%
+- 🏆 Received client appreciation for 30% cost optimization
+- 🔄 Built robust ETL processes and data integration solutions
 
 ---
 
-## 📫 Let's Connect
+## 🏅 Certifications
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/souvind-sajeev/)  
-- 📧 Email: souvind.souvi@gmail.com  
+- 📜 **Microsoft Certified Azure Data Engineer Associate (DP-203)**
+- 🏆 **Databricks Certified Data Engineer Associate**
+- ⭐ **Fundamentals of Databricks Lakehouse Platform Accreditation**
+- 🎓 **HackerRank Advanced SQL & Python Certifications**
+- 🤖 **Introduction to Generative AI by Google**
 
-💡 *“Data is the new oil — I refine it to power better decisions.”*  
+---
+
+## 🚀 Featured Projects
+
+### 📊 **Real-time Data Pipeline Architecture**
+- Built scalable ETL pipelines processing TB-scale data
+- Implemented real-time streaming with Kafka and Spark
+- Achieved 99.9% data accuracy with automated quality checks
+- **Tech Stack:** Azure Data Factory, Databricks, PySpark, Delta Lake
+
+### 🏎️ **Formula One Analytics Platform**
+- Developed comprehensive F1 data analysis pipeline
+- Created interactive dashboards for race insights
+- Implemented historical trend analysis and predictions
+- **Tech Stack:** Python, Databricks, Power BI, Azure Synapse
+
+### 💼 **Job Market Intelligence System**
+- Scraped 10K+ job listings using Python automation
+- Built ETL pipeline with Airflow for data processing
+- Created Streamlit dashboard for market insights
+- **Tech Stack:** Python, SQLite, SQL Server, Streamlit, Airflow
+
+---
+
+## 🎯 What I'm Working On
+
+- 🔬 Exploring **Generative AI** applications in data engineering
+- 📚 Advancing skills in **MLOps** and **DataOps** practices
+- 🌟 Contributing to open-source data engineering tools
+- 📖 Sharing knowledge through technical blogs and presentations
+
+---
+
+## 📈 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=souvind&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souvind&layout=compact&theme=radical)
+
+---
+
+## 🏆 Awards & Recognition
+
+- 🥇 **Best Team of the Quarter Award**
+- 👨‍💻 **Client Appreciation Award** from Westpac Banking Corporation
+- ⚡ **Spot Award** for Quick Problem-Solving
+- 🤝 **Best Team Player Award**
+- 💡 **Innovation Award** for Workflow Improvements
+- ⭐ **Shining Star Award** from Capgemini
+- 📜 **Certificate of Excellence**
+
+---
+
+## 📫 Let's Connect!
+
+I'm always excited to discuss data engineering challenges, cloud architectures, or potential collaborations. Feel free to reach out!
+
+- 📧 **Email:** [souvind.souvi@gmail.com](mailto:souvind.souvi@gmail.com)
+- 📱 **Phone:** +91-9946591679
+- 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/souvind-nk)
+- 📍 **Location:** Kerala, India
+
+---
+
+## 🎯 Fun Facts
+
+- 🚗 Currently working on cutting-edge automotive data solutions at Mercedes-Benz
+- 📊 Processed over 5TB of data in production environments
+- 🎓 Graduated with 8.12/10 GPA in Computer Science Engineering
+- 🌟 Active participant in hackathons and tech conferences
+- ☁️ Cloud cost optimization specialist - saved companies 30%+ on infrastructure
+
+---
+
+*"Data is the new oil, but like oil, it's valuable only when refined."* - Let's refine your data together! 🛠️
+
+![Visitor Count](https://komarev.com/ghpvc/?username=souvind&color=brightgreen)

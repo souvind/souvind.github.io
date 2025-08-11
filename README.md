@@ -10,7 +10,7 @@ I specialize in the **Azure ecosystem** and **big data technologies**, deliverin
 ## 🛠️ Skills & Tools
 
 **Programming & Querying**  
-- Python, SQL, PySpark, C, C++, Java  
+- Python, SQL, PySpark
 
 **Cloud & Data Platforms**  
 - Azure Data Factory (ADF)  
